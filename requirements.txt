@@ -1,6 +1,6 @@
 streamlit
 pandas
-emoji
+emoji==1.2.0
 urlextract
 wordcloud
 matplotlib
